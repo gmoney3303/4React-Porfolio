@@ -1,9 +1,9 @@
-import image_1 from "../../../assets/images/Library.jpg";
-import image_2 from "../../../assets/images/Techblog.jpg";
-import image_3 from "../../../assets/images/traveler.jpg";
-import image_4 from "../../../assets/images/Social.jpg";
-import image_5 from "../../../assets/images/Weather.jpg";
-import image_6 from "../../../assets/images/Employee.jpg";
+import image_1 from "../../../assets/images/Library.JPG";
+import image_2 from "../../../assets/images/Techblog.JPG";
+import image_3 from "../../../assets/images/traveler.JPG";
+import image_4 from "../../../assets/images/Social.JPG";
+import image_5 from "../../../assets/images/Weather.JPG";
+import image_6 from "../../../assets/images/Employee.JPG";
 
 export const projectData = [
   {
