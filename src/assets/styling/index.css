@@ -1,0 +1,28 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+:root {
+  font-family: "Arial", sans-serif;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  --primary-color: #031738;
+  --primaryMedium-color: #e0dce6;
+  --primaryLight-color: #06032b;
+  --secondaryDark-color: #060738;
+  --secondaryLight-color: #0f1052;
+  --accent-color: #142450;
+}
+
+@media (max-width: 768px) {
+}
