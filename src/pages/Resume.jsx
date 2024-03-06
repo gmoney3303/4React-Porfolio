@@ -6,6 +6,7 @@ export default function Resume() {
       <h2>Resume</h2>
 
       <ResumeLink />
+
       <div className="row">
         <div className="col-sm">
           <div>
@@ -14,16 +15,16 @@ export default function Resume() {
               <li>JavaScript</li>
             </ul>
           </div>
+
           <div>
             <h3>Web Development</h3>
             <ul>
-              <li>
-                MERN STACK
+              <li>MERN STACK
                 <ul>
-                  <ol>MongoDB</ol>
-                  <ol>Express.js</ol>
-                  <ol>React</ol>
-                  <ol>Node.js</ol>
+                  <li>MongoDB</li>
+                  <li>Express.js</li>
+                  <li>React</li>
+                  <li>Node.js</li>
                 </ul>
               </li>
               <li>HTML & CSS</li>
@@ -39,6 +40,7 @@ export default function Resume() {
               <li>npm scripts</li>
             </ul>
           </div>
+
           <div>
             <h3>Testing</h3>
             <ul>
@@ -63,6 +65,7 @@ export default function Resume() {
               <li>Compass</li>
             </ul>
           </div>
+
           <div>
             <h3>Database Management</h3>
             <ul>
@@ -74,6 +77,7 @@ export default function Resume() {
               <li>ODM (Object-Document Mapping)</li>
             </ul>
           </div>
+
           <div>
             <h3>Security</h3>
             <ul>

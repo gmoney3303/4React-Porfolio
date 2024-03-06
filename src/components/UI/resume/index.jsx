@@ -1,11 +1,11 @@
 import { useEffect } from "react";
-import ResumePDF from "./Garrett-sheppard.pdf";
+import ResumePDF from "./Garrett_sheppard_Resume.pdf";
 
 export default function DownloadResume() {
   useEffect(() => {
     const link = document.createElement("a");
     link.href = ResumePDF;
-    link.download = "Garrett-sheppard.pdf";
+    link.download = "Garrett_sheppard_Resume.pdf";
 
     const handleDownload = (event) => {
       event.preventDefault();
@@ -41,7 +41,7 @@ export default function DownloadResume() {
     <div style={styles.container}>
       <p style={styles.text}>
         Click this link to download:{" "}
-        <a style={styles.link} href={ResumePDF} download="Garrett-sheppard.pdf">
+        <a style={styles.link} href={ResumePDF} download="Garrett_sheppard_Resume.pdf">
           Resume.pdf
         </a>
       </p>

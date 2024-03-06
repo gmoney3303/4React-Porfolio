@@ -2,12 +2,12 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[Link to live deploy](https://laceytrokeyportfolio.netlify.app)
+[Link to live deploy](https://main--garretts-portfolio.netlify.app/)
 
 ## Description
 
 React portfolio was the biggest thing ive worked on helping me get used to big folder and file formate. Often times I forgot what did what in the apllication.
-
+it made me understand a lot fo orders to file and if one thing was wrong it would cause errors
 
 
 ## Badges
@@ -27,4 +27,4 @@ React portfolio was the biggest thing ive worked on helping me get used to big f
 https://github.com/ltrokey/portfoilo_react
 
 I was struggling to start this project not sure what format I wanted/needed and had built starters to other attemts
-at making the project but it wasnt till I looked at her github where I was able to get mine working for a starting layout.
+at making the project but it wasnt till I looked at her github where I was able to get mine working and structure properly
