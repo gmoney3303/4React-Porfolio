@@ -22,7 +22,11 @@ const router = createBrowserRouter([
     errorElement: <Error />,
     children: [
       {
-        index: true,
+        path: "", // This represents the root path "/"
+        element: <Resume />, // Render Resume component as the default page
+      },
+      {
+        path: "about-me",
         element: <AboutMe />,
       },
       {
@@ -40,6 +44,7 @@ const router = createBrowserRouter([
     ],
   },
 ]);
+
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
